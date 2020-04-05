@@ -1,0 +1,1272 @@
+.mediaViewInfo {
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1280___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___1 {
+	position: absolute;
+	width: 1340px;
+	height: 733px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	filter: blur(4px);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 880px;
+	height: 505px;
+	left: 94px;
+	top: 201px;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 98px;
+	left: -219px;
+	top: 0px;
+	overflow: visible;
+}
+#trangchu {
+	position: absolute;
+	width: 459px;
+	height: 31.161px;
+	left: 74px;
+	top: 119px;
+	overflow: visible;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 8.384px;
+	height: 8.384px;
+	left: 397.826px;
+	top: 21.739px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 31.763px;
+	height: 29.974px;
+	left: 0px;
+	top: 0.074px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 36.506px;
+	height: 31.161px;
+	left: 143.49px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 25.226px;
+	height: 30.048px;
+	left: 225.029px;
+	top: 0.074px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 7.197px;
+	height: 30.048px;
+	left: 411.032px;
+	top: 0.148px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 26.932px;
+	height: 29.752px;
+	left: 254.559px;
+	top: 0.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 34.871px;
+	height: 29.9px;
+	left: 358.133px;
+	top: 0.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 34.871px;
+	height: 29.9px;
+	left: 424.129px;
+	top: 0.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_16 {
+	overflow: visible;
+	position: absolute;
+	width: 34.871px;
+	height: 29.826px;
+	left: 185.113px;
+	top: 0.297px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 33.482px;
+	height: 31.013px;
+	left: 105.874px;
+	top: 0.074px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 28.936px;
+	height: 29.952px;
+	left: 37.319px;
+	top: 0.223px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 33.457px;
+	height: 29.519px;
+	left: 285.683px;
+	top: 0.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 33.418px;
+	height: 29.519px;
+	left: 70.077px;
+	top: 0.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 29.01px;
+	height: 29.966px;
+	left: 323.706px;
+	top: 0.209px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man1 {
+	position: absolute;
+	width: 190px;
+	height: 284.95px;
+	left: 194px;
+	top: 349.05px;
+	overflow: visible;
+}
+#round_1_start {
+	position: absolute;
+	width: 190px;
+	height: 284.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#elephent {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 11px;
+	top: 30.95px;
+	overflow: visible;
+}
+#Elephants__a_square__and_a_cir {
+	position: absolute;
+	left: 0px;
+	top: 228.95px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 168px;
+	height: 52.95px;
+	left: 14px;
+	top: 0px;
+	overflow: visible;
+}
+#Canvas {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 128px;
+	top: 12.95px;
+	overflow: visible;
+}
+#Group {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Oval {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_24 {
+	overflow: visible;
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_1 {
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 14px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_25 {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Layer_2 {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_6 {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 60.49px;
+	height: 33.35px;
+	left: 16.5px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 26.535px;
+	height: 6.45px;
+	left: 9.261px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 7.567px;
+	height: 6.45px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 8.02px;
+	height: 6.09px;
+	left: 18.515px;
+	top: 0.107px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2 {
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 14.8px;
+	top: 13.95px;
+	overflow: visible;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3 {
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 27.994px;
+	top: 13.15px;
+	overflow: visible;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 6.05px;
+	overflow: visible;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 0px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 75px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#round_1_cpl {
+	position: absolute;
+	width: 190px;
+	height: 267px;
+	left: 0px;
+	top: 17.95px;
+	display: none;
+	overflow: visible;
+}
+#elephent_bn {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 11px;
+	top: 13px;
+	overflow: visible;
+}
+#Elephants__a_square__and_a_cir_bo {
+	position: absolute;
+	left: 0px;
+	top: 211px;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#tick {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 153px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#Canvas_br {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+}
+#Combined_Shape {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_28 {
+	overflow: visible;
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man2 {
+	position: absolute;
+	width: 177.87px;
+	height: 246px;
+	left: 448px;
+	top: 358px;
+	overflow: visible;
+}
+#man2_bv {
+	position: absolute;
+	width: 184px;
+	height: 256.95px;
+	left: 0px;
+	top: -10.95px;
+	display: none;
+	overflow: visible;
+}
+#round2 {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 4px;
+	top: 30.95px;
+	overflow: visible;
+}
+#Name_the_shapes {
+	position: absolute;
+	left: 0px;
+	top: 228.95px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(1,0,3,1);
+}
+#Canvas_by {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 144px;
+	top: 12.95px;
+	overflow: visible;
+}
+#Group_bz {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Oval_b {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_24_b {
+	overflow: visible;
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_1_b {
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 14px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_25_b {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Layer_2_b {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 8px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_6_b {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5_b {
+	position: absolute;
+	width: 60.49px;
+	height: 33.35px;
+	left: 16.5px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1_b {
+	position: absolute;
+	width: 26.535px;
+	height: 6.45px;
+	left: 9.261px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_1_b {
+	overflow: visible;
+	position: absolute;
+	width: 7.567px;
+	height: 6.45px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2_b {
+	overflow: visible;
+	position: absolute;
+	width: 8.02px;
+	height: 6.09px;
+	left: 18.515px;
+	top: 0.107px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2_ca {
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 14.8px;
+	top: 13.95px;
+	overflow: visible;
+}
+.Path_3_cb {
+	overflow: visible;
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3_cc {
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 27.994px;
+	top: 13.15px;
+	overflow: visible;
+}
+.Path_4_cd {
+	overflow: visible;
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4_ce {
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 6.05px;
+	overflow: visible;
+}
+.Path_5_cf {
+	overflow: visible;
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6_cg {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 0px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7_ch {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 75px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man2_ci {
+	position: absolute;
+	width: 178px;
+	height: 237px;
+	left: 0px;
+	top: 9px;
+	display: none;
+	overflow: visible;
+}
+#round2_cj {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 4px;
+	top: 11px;
+	overflow: visible;
+}
+#Name_the_shapes_ck {
+	position: absolute;
+	left: 0px;
+	top: 209px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(1,0,3,1);
+}
+#tick_cl {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 141px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_1_cm {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#Canvas_cn {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+}
+#Combined_Shape_co {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_28_cp {
+	overflow: visible;
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man2_cq {
+	position: absolute;
+	width: 177.87px;
+	height: 246px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#round2_cr {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 4px;
+	top: 20px;
+	overflow: visible;
+}
+#Name_the_shapes_cs {
+	position: absolute;
+	left: 0px;
+	top: 218px;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(181,181,181,1);
+}
+#lock {
+	position: absolute;
+	width: 40.87px;
+	height: 50.542px;
+	left: 137px;
+	top: 0px;
+	overflow: visible;
+}
+#Page_1 {
+	position: absolute;
+	width: 40.87px;
+	height: 50.542px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Fill_1_cv {
+	position: absolute;
+	width: 23.298px;
+	height: 31.311px;
+	left: 8.4px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_29 {
+	overflow: visible;
+	position: absolute;
+	width: 23.298px;
+	height: 31.31px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_3 {
+	position: absolute;
+	width: 40.87px;
+	height: 40.542px;
+	left: 0px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_30 {
+	overflow: visible;
+	position: absolute;
+	width: 40.87px;
+	height: 40.542px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_5 {
+	position: absolute;
+	width: 9.762px;
+	height: 18.4px;
+	left: 15.55px;
+	top: 21.3px;
+	overflow: visible;
+}
+.Path_31 {
+	overflow: visible;
+	position: absolute;
+	width: 9.762px;
+	height: 18.4px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man3 {
+	position: absolute;
+	width: 184px;
+	height: 278px;
+	left: 696px;
+	top: 354px;
+	overflow: visible;
+}
+#man3_c {
+	position: absolute;
+	width: 184px;
+	height: 280px;
+	left: 0px;
+	top: -2px;
+	display: none;
+	overflow: visible;
+}
+#round3 {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 0px;
+	top: 27px;
+	overflow: visible;
+}
+#Elephants__learn_a__square_and {
+	position: absolute;
+	left: 0px;
+	top: 224px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Group_13 {
+	position: absolute;
+	width: 171.001px;
+	height: 48px;
+	left: 4.999px;
+	top: 0px;
+	overflow: visible;
+}
+#Canvas_c {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 131.001px;
+	top: 8px;
+	overflow: visible;
+}
+#Group_c {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Oval_c {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_24_c {
+	overflow: visible;
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_1_da {
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 14px;
+	top: 11px;
+	overflow: visible;
+}
+.Path_25_db {
+	overflow: visible;
+	position: absolute;
+	width: 16px;
+	height: 18.286px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Layer_2_dc {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_6_dd {
+	position: absolute;
+	width: 91.001px;
+	height: 36.95px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_5_de {
+	position: absolute;
+	width: 60.49px;
+	height: 33.35px;
+	left: 16.5px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1_df {
+	position: absolute;
+	width: 26.535px;
+	height: 6.45px;
+	left: 9.261px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_1_dg {
+	overflow: visible;
+	position: absolute;
+	width: 7.567px;
+	height: 6.45px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_2_dh {
+	overflow: visible;
+	position: absolute;
+	width: 8.02px;
+	height: 6.09px;
+	left: 18.515px;
+	top: 0.107px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_2_di {
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 14.8px;
+	top: 13.95px;
+	overflow: visible;
+}
+.Path_3_dj {
+	overflow: visible;
+	position: absolute;
+	width: 5.3px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_3_dk {
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 27.994px;
+	top: 13.15px;
+	overflow: visible;
+}
+.Path_4_dl {
+	overflow: visible;
+	position: absolute;
+	width: 5.306px;
+	height: 5.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4_dm {
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 6.05px;
+	overflow: visible;
+}
+.Path_5_dn {
+	overflow: visible;
+	position: absolute;
+	width: 60.49px;
+	height: 27.3px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_6_do {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 0px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Path_7_dp {
+	overflow: visible;
+	position: absolute;
+	width: 16.001px;
+	height: 9.058px;
+	left: 75px;
+	top: 27.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man3_dq {
+	position: absolute;
+	width: 184px;
+	height: 268px;
+	left: 0px;
+	top: 10px;
+	display: none;
+	overflow: visible;
+}
+#round3_dr {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 0px;
+	top: 15px;
+	overflow: visible;
+}
+#Elephants__learn_a__square_and_ds {
+	position: absolute;
+	left: 0px;
+	top: 212px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#tick_dt {
+	position: absolute;
+	width: 37px;
+	height: 36px;
+	left: 139px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_1_du {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 36px;
+	left: 0px;
+	top: 0px;
+}
+#Canvas_dv {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 8px;
+	top: 9px;
+	overflow: visible;
+}
+#Combined_Shape_dw {
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_28_dx {
+	overflow: visible;
+	position: absolute;
+	width: 22.623px;
+	height: 17.854px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#man3_dy {
+	position: absolute;
+	width: 184px;
+	height: 278px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#round3_dz {
+	position: absolute;
+	width: 165px;
+	height: 165px;
+	left: 0px;
+	top: 25px;
+	overflow: visible;
+}
+#Elephants__learn_a__square_and_d {
+	position: absolute;
+	left: 0px;
+	top: 222px;
+	overflow: visible;
+	width: 185px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 21px;
+	color: rgba(181,181,181,1);
+}
+#lock_d {
+	position: absolute;
+	width: 40.87px;
+	height: 50.542px;
+	left: 135px;
+	top: 0px;
+	overflow: visible;
+}
+#Page_1_d {
+	position: absolute;
+	width: 40.87px;
+	height: 50.542px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Fill_1_d {
+	position: absolute;
+	width: 23.298px;
+	height: 31.311px;
+	left: 8.4px;
+	top: 0px;
+	overflow: visible;
+}
+.Path_29_d {
+	overflow: visible;
+	position: absolute;
+	width: 23.298px;
+	height: 31.31px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_3_d {
+	position: absolute;
+	width: 40.87px;
+	height: 40.542px;
+	left: 0px;
+	top: 10px;
+	overflow: visible;
+}
+.Path_30_d {
+	overflow: visible;
+	position: absolute;
+	width: 40.87px;
+	height: 40.542px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Fill_5_d {
+	position: absolute;
+	width: 9.762px;
+	height: 18.4px;
+	left: 15.55px;
+	top: 21.3px;
+	overflow: visible;
+}
+.Path_31_d {
+	overflow: visible;
+	position: absolute;
+	width: 9.762px;
+	height: 18.4px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Square_and_circle {
+	position: absolute;
+	left: 368px;
+	top: 256px;
+	overflow: visible;
+	width: 292px;
+	height: 72px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(0,0,0,1);
+}
+#help {
+	position: absolute;
+	width: 288px;
+	height: 288px;
+	left: 982px;
+	top: 452px;
+	overflow: visible;
+}
+#dino {
+	position: absolute;
+	width: 288px;
+	height: 288px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Help_ec {
+	transform: translate(-984px, -520px) matrix(1,0,0,1,986.3785,555.714) rotate(-4deg);
+	transform-origin: center;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 110px;
+	height: 72px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
