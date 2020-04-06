@@ -1,6 +1,7 @@
 $( function() {
     $( '.figure' ).draggable({ revert: "invalid" });
     $( "#orange_elephant" ).droppable({
+<<<<<<< HEAD
         accept: '.tron',
         classes: {
             "ui-droppable-active": "ui-state-highlight",
@@ -9,10 +10,19 @@ $( function() {
         drop: function( event, ui ) {
             // jQuery("#voi______sai").css('display','block');
             addtron(ui.draggable);
+=======
+        accept: ' .tron',
+        classes: {
+            "ui-droppable-active": "ui-state-highlight",
+            "ui-droppable-hover": "ui-state-hover"
+>>>>>>> a567c7917ae7bc3f60f86df90f5fb9f4e74e6d1f
         }
+
+
     });
 
     $( "#blue_elephant" ).droppable({
+<<<<<<< HEAD
         accept: '.vuong',
         classes: {
             "ui-droppable-active": "ui-state-active",
@@ -53,5 +63,13 @@ $( function() {
         console.log(e.pageY);
     })
 
+=======
+        accept: ' .vuong',
+        classes: {
+            "ui-droppable-active": "ui-state-active",
+            "ui-droppable-hover": "ui-state-hover"
+        }
+    });
+>>>>>>> a567c7917ae7bc3f60f86df90f5fb9f4e74e6d1f
 } );
 
