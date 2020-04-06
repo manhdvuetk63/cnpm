@@ -805,7 +805,7 @@
 }
 
 .Rectangle_2 {
-    position: absolute;
+    position: relative;
     overflow: visible;
     width: 155px;
     height: 106px;
@@ -951,175 +951,117 @@
 }
 
 #shapes_1 {
-    position: absolute;
-    width: 291px;
-    height: 294.93px;
-    left: 310px;
-    top: 134.428px;
+    width: 275px;
+    height: 287px;
+    left: 511px;
+    top: 280px;
     overflow: visible;
 }
-
-.Ellipse_2 {
+#tron1 {
+    opacity: 0.84;
+}
+.tron1 {
     position: absolute;
     overflow: visible;
-    width: 28px;
-    height: 29px;
-    left: 13px;
-    top: 11.572px;
+    width: 65px;
+    height: 65px;
+    left: 637px;
+    top: 284px;
 }
-
-.Ellipse_3 {
+.tron2 {
     position: absolute;
     overflow: visible;
     width: 46px;
     height: 45px;
-    left: 113px;
-    top: 149.572px;
+    left: 565px;
+    top: 334px;
 }
-
-.Ellipse_4 {
+.tron3 {
     position: absolute;
     overflow: visible;
     width: 58px;
     height: 58px;
-    left: 228px;
-    top: 68.572px;
+    left: 683px;
+    top: 417px;
 }
-
-.Ellipse_5 {
-    position: absolute;
-    overflow: visible;
-    width: 36px;
-    height: 37px;
-    left: 16px;
-    top: 234.572px;
-}
-
-.Polygon_1 {
-    overflow: hidden;
-    position: absolute;
-    width: 51.254px;
-    height: 65.232px;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 223.2727, 214.7858) rotate(-24deg);
-    transform-origin: center;
-    left: 0px;
-    top: 0px;
-}
-
-.Rectangle_5 {
-    position: absolute;
-    overflow: visible;
-    width: 29px;
-    height: 29px;
-    left: 194px;
-    top: 127.572px;
-}
-
-.Rectangle_6 {
+.tron4 {
     position: absolute;
     overflow: visible;
     width: 56px;
     height: 56px;
-    left: 235px;
-    top: 138.572px;
+    left: 762px;
+    top: 515px;
 }
-
-.Rectangle_7 {
+.vuong1 {
     position: absolute;
     overflow: visible;
-    width: 47px;
-    height: 46px;
-    left: 205px;
-    top: 11.572px;
+    width: 44px;
+    height: 44px;
+    left: 769px;
+    top: 431px;
 }
-
-.Rectangle_8 {
-    width: 42.712px;
-    height: 59.796px;
+.vuong2 {
     position: absolute;
     overflow: visible;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 78.6476, 228.6894) rotate(44deg);
-    transform-origin: center;
+    width: 56px;
+    height: 56px;
+    left: 655px;
+    top: 497px;
 }
-
-.Polygon_2 {
+.Polygon_2_fo {
     overflow: hidden;
     position: absolute;
     width: 40px;
     height: 34px;
-    left: 34px;
-    top: 166.572px;
-    transform: matrix(1, 0, 0, 1, 0, 0);
+    left: 615px;
+    top: 456px;
+    transform: matrix(1,0,0,1,0,0);
 }
-
-.Polygon_3 {
+.vuong4 {
+    position: absolute;
+    overflow: visible;
+    width: 58px;
+    height: 58px;
+    left: 557px;
+    top: 513px;
+}
+.vuong3 {
+    position: absolute;
+    overflow: visible;
+    width: 56px;
+    height: 56px;
+    left: 543px;
+    top: 400px;
+}
+.Polygon_8 {
     overflow: hidden;
     position: absolute;
-    width: 61.35px;
-    height: 55.913px;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 140.5603, 71.766) rotate(17deg);
-    transform-origin: center;
-    left: 0px;
-    top: 0px;
+    width: 56px;
+    height: 59px;
+    left: 620px;
+    top: 356px;
+    transform: matrix(1,0,0,1,0,0);
 }
-
-.Rectangle_9 {
-    width: 38.052px;
-    height: 38.052px;
-    position: absolute;
-    overflow: visible;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 165.4107, 208.4434) rotate(-52deg);
-    transform-origin: center;
-}
-
-.Rectangle_10 {
-    position: absolute;
-    overflow: visible;
-    width: 28px;
-    height: 28px;
-    left: 46px;
-    top: 99.572px;
-}
-
-.Rectangle_12 {
-    position: absolute;
-    overflow: visible;
-    width: 31px;
-    height: 33px;
-    left: 0px;
-    top: 74.572px;
-}
-
-.Rectangle_13 {
-    width: 35.723px;
-    height: 34.169px;
-    position: absolute;
-    overflow: visible;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 91.636, 85.7444) rotate(39deg);
-    transform-origin: center;
-}
-
-.Polygon_4 {
+.Polygon_9 {
     overflow: hidden;
     position: absolute;
-    width: 42.712px;
-    height: 38.052px;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 44.2648, 29.0543) rotate(28deg);
-    transform-origin: center;
-    left: 0px;
-    top: 0px;
+    width: 40px;
+    height: 34px;
+    left: 711px;
+    top: 303px;
+    transform: matrix(1,0,0,1,0,0);
 }
-
-.Polygon_5 {
+.Polygon_10 {
     overflow: hidden;
     position: absolute;
-    width: 51.254px;
-    height: 51.254px;
-    transform: translate(0.155px, 0px) matrix(1, 0, 0, 1, 110.2738, 10.4165) rotate(39deg);
-    transform-origin: center;
-    left: 0px;
-    top: 0px;
+    width: 56px;
+    height: 59px;
+    left: 747px;
+    top: 327px;
+    transform: matrix(1,0,0,1,0,0);
 }
+
+
 
 #chicken {
     position: absolute;
