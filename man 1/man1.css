@@ -1890,6 +1890,3 @@
     transform: translate(0.412px, -0.015px) matrix(1, 0, 0, 1, 57.4666, 52.8072) rotate(45deg);
     transform-origin: center;
 }
-#shapes_1 {
-    cursor: -webkit-grab; cursor: grab;
-}
